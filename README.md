@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <body>
   <section>
     <div class="intro">
-      <h1>Hi Everyone! :wave: </h1>
+      <h1>Welcome to my page</h1>
       <p>My name is Lucas, and I'm a brazillian self-taught student focusing on back-end development :globe_with_meridians:</p>
       <p>I'm current learning Laravel and MySQL, looking forward to learn Ruby and Rails :gem:</p>
     </div>
