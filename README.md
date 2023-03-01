@@ -64,7 +64,6 @@ Here are some ideas to get you started:
 
 ![image](https://user-images.githubusercontent.com/71951113/216558613-39390f1e-de28-44da-ad88-394f6e87089b.png)
 ![image](https://user-images.githubusercontent.com/71951113/216558746-5f105ea8-b5d3-4755-b844-3a1dc9b0f5e4.png)
-![image](https://user-images.githubusercontent.com/71951113/216558780-3586aa30-b850-4a2f-8b96-4cddb83a5c6f.png)
 ![image](https://user-images.githubusercontent.com/71951113/216558707-d9ef75e3-fcbc-40f4-9010-dae2f214fa07.png)
 ![image](https://user-images.githubusercontent.com/71951113/216559095-70eba896-df93-43d4-b925-8637a1c87ef3.png)
 ![image](https://user-images.githubusercontent.com/71951113/216558954-000cf7ae-afec-49b0-90a0-1e760b3c1797.png)
