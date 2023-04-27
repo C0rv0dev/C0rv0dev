@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <body>
   <section>
     <div class="intro">
-      <h1>Велкоме!</h1>
+      <h1>Добро пожаловать!</h1>
       <p>My name is Lucas, and I'm a self-taught student focusing on back-end development</p>
       <p>I'm current working with Laravel, and learned a little bit of React and russian lol</p>
     </div>
