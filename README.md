@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 <body>
   <section>
     <div class="intro">
-      <h1>Welcome to my page</h1>
-      <p>My name is Lucas, and I'm a brazillian self-taught student focusing on back-end development :globe_with_meridians:</p>
-      <p>I'm current learning Laravel and MySQL, looking forward to learn Ruby and Rails :gem:</p>
+      <h1>Велкоме!</h1>
+      <p>My name is Lucas, and I'm a self-taught student focusing on back-end development</p>
+      <p>I'm current working with Laravel, and learned a little bit of React and russian lol</p>
     </div>
     <div>
       <h1>My Current Skills</h1>
@@ -62,9 +62,6 @@ Here are some ideas to get you started:
 </body>
 </html>
 
-![image](https://user-images.githubusercontent.com/71951113/216558613-39390f1e-de28-44da-ad88-394f6e87089b.png)
-![image](https://user-images.githubusercontent.com/71951113/216558746-5f105ea8-b5d3-4755-b844-3a1dc9b0f5e4.png)
-![image](https://user-images.githubusercontent.com/71951113/216558707-d9ef75e3-fcbc-40f4-9010-dae2f214fa07.png)
-![image](https://user-images.githubusercontent.com/71951113/216559095-70eba896-df93-43d4-b925-8637a1c87ef3.png)
-![image](https://user-images.githubusercontent.com/71951113/216558954-000cf7ae-afec-49b0-90a0-1e760b3c1797.png)
+![image](https://user-images.githubusercontent.com/71951113/216558707-d9ef75e3-fcbc-40f4-9010-dae2f214fa07.png) //php
+![image](https://user-images.githubusercontent.com/71951113/216559095-70eba896-df93-43d4-b925-8637a1c87ef3.png) //laravel
 ![image](https://user-images.githubusercontent.com/71951113/216559202-50773b17-f38e-40c3-b3f7-d298b0d1e329.png)
