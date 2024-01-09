@@ -13,18 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <html>
-<head>
-</head>
-<body>
-  <section>
-    <div class="intro">
-      <h1>Добро пожаловать!</h1>
-    </div>
-    <div>
-      <h1>My Current Skills</h1>
-    </div>
-  </section>  
-</body>
+  <head>
+  </head>
+  <body>
+    <section>
+      <div class="intro">
+        <h1>Добро пожаловать!</h1>
+      </div>
+    </section>  
+  </body>
 </html>
 
 ![image](https://user-images.githubusercontent.com/71951113/216558707-d9ef75e3-fcbc-40f4-9010-dae2f214fa07.png) <!-- php -->
