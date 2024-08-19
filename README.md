@@ -30,3 +30,7 @@ Caso queira entrar em contato comigo, sinta-se a vontade para me chamar no [Link
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
+
+--
+## Computador que uso: 
+<a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i7-1360p&memory=16gb&gpu=nvidia-rtx-a5000-laptop-gpu&platform=linux"><img src="https://www.pcgamebenchmark.com/signature/intel-core-i7-1360p/16gb/nvidia-rtx-a5000-laptop-gpu/forum.png"></a> 
